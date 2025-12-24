@@ -61,19 +61,19 @@ tags:
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## Difficulty and star rating
+## Рівні та оцінки
 
-As of 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
+На 21 липня 2021 року, вебсайт osu! автоматично назначає колір оцінки рівня карти, базуючися на її оцінці згідно спектру нижче:
 
 ![osu! difficulty rating colour spectrum](/wiki/shared/star-rating/spectrum.png)
 
-In some instances, such as [AIMod](/wiki/Client/Beatmap_editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
+У деяких випадках, таких як [AIMod](/wiki/Client/Beatmap_editor/AiMod), рівень класифікується на 6 діапазонів засновних на оцінці:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ and above
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ та вище
 
-Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.
+Треба зазначити що хоча очікувана назва рівнів більшості карт відповідають кольорам або діапазонам назв, які були їм надані,деякі можуть значно відхилятися через деякі причини. Ось чому [критерії оцінювання](/wiki/Ranking_criteria) пропонують більш значущі базові принципи, щоб визначити справжню назву рівня карти та діапазон рівнів незалежно від її оцінки.
